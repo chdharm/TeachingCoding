@@ -6,7 +6,7 @@ public class Three {
 	{
 	System.out.println("int");	
 	}
-void m2(double b)
+	void m2(double b)
 	{
 		System.out.println("double");		
 	}

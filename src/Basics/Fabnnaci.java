@@ -18,9 +18,7 @@ public class Fabnnaci {
 			b=c;
 		}
 	
-			}
-
-		
+			}		
 	}
 
 
